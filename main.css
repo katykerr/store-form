@@ -1,5 +1,6 @@
 body{
     margin: 20px;
+    font-family:"amazon-ember",sans-serif ;
 }
 
 
@@ -41,7 +42,6 @@ h {
     margin-top: 40px;
 }
 .pass-text {
-    display: inline-block;
     float: left;
     
 }
